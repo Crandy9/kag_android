@@ -1,4 +1,4 @@
-package com.example.kaoruartgalleryandroid;
+package com.lctec.kaoruartgalleryandroid;
 
 import org.junit.Test;
 
